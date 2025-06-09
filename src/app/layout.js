@@ -12,7 +12,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Te CuiDAmos",
+  title: "QR SOS",
   description: "Group",
 };
 

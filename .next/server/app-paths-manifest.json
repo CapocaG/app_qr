@@ -1,6 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/Listas/page": "app/Listas/page.js",
-  "/usuarios/[id]/page": "app/usuarios/[id]/page.js",
-  "/Formulario/page": "app/Formulario/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
 }
