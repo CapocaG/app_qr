@@ -42,9 +42,9 @@ export default function Page({ params }) {
                 <div><b>Detalle Dificultad:</b> {usuario.detalleDificultad}</div>
                 <div><b>Instrucciones Especiales:</b> {usuario.instrucciones}</div>
                 <div><b>Idioma Preferido:</b> {usuario.idioma}</div>
-                <div><b>Accesorio:</b> {usuario.accesorio}</div>
-                <div><b>Color/Diseño:</b> {usuario.color}</div>
-                <div><b>Nombre Visible:</b> {usuario.nombreVisible ? "Sí" : "No"}</div>
+                {/*<div><b>Accesorio:</b> {usuario.accesorio}</div>*/}
+                {/*<div><b>Color/Diseño:</b> {usuario.color}</div>*/}
+                {/*<div><b>Nombre Visible:</b> {usuario.nombreVisible ? "Sí" : "No"}</div>*/}
                 <div><b>Consentimiento:</b> {usuario.consentimiento ? "Sí" : "No"}</div>
             </div>
             <div className="mt-6">
